@@ -1,4 +1,5 @@
 # Embedded 3D Engine
+![Image of 3D teapot on OLED](https://raw.githubusercontent.com/KiLLAAA/Embedded_3D/master/teapot.gif)
 
 [![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause)
 
